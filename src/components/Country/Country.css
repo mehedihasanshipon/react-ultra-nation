@@ -1,0 +1,28 @@
+.country{
+    /* border: 1px solid red; */
+    border-radius: 10px;
+    margin-top: 5px; 
+    margin-top: 15px; 
+    padding: 20px;
+    box-shadow: 5px 5px 15px gray;
+}
+
+.country img{
+    width: 150px;
+    height: 100px;
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    color: black;
+    font-size: 25px;
+}
+.btn-custom:hover{
+    padding: 10px 30px;
+    background-color: red !important;
+    border-style: none;
+    /* color: green !important; */
+    font-weight: 500;
+    font-size: 18px;
+}
